@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%"/>
-</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/TwFzO9Dc0W195m89Xpm5BP/README-Github-Banner--Community-?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 <h1 align="center">Hi, I am Muneeb Khan.</h1>
 <h3 align="center"> Excited about coding and problem solving | AI Student.</h3>
