@@ -1,4 +1,4 @@
-![Banner](https://www.figma.com/proto/TwFzO9Dc0W195m89Xpm5BP/README-Github-Banner--Community-?node-id=0-67&p=f&t=6pMxYTNooQrIWjdK-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+![Banner]([https://www.figma.com/proto/TwFzO9Dc0W195m89Xpm5BP/README-Github-Banner--Community-?node-id=0-67&p=f&t=6pMxYTNooQrIWjdK-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/proto/TwFzO9Dc0W195m89Xpm5BP/README-Github-Banner--Community-?node-id=0-1&t=w2PYgmlWHOVHzAwp-1))
 
 <h1 align="center">Hi, I am Muneeb Khan.</h1>
 <h3 align="center"> Excited about coding and problem solving | AI Student.</h3>
