@@ -14,7 +14,7 @@
 ---
 
 ### 🏆 LeetCode
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-200%2B%20Solved-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kmuneeb7/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-17%2B%20Solved-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kmuneeb7/)
 - Solved 17 LeetCode problems covering easy difficulty yet, but cant wait to dive into the medium and hard ones.  
 - Organized solutions for easy reference and learning.  
 - Focused on practicing problem-solving, algorithms, and data structures.
