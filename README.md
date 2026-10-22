@@ -11,6 +11,7 @@
 - 📚 Studying **Artificial Intelligence** (BS) at COMSATS Islamabad
 - 🧠 Currently learning **machine learning, deep learning, and data structures & algorithms**
 - 🧩 Practicing on **LeetCode** (easy problems done, moving on to medium)
+- 🔬 Learning the basics of **AI research** by reading papers and writing about them
 - 🤖 Exploring **agentic AI**: RAG pipelines, **LangChain** and **LangGraph**
 - 🐳 Just getting started with **Docker and Jenkins** (beginner)
 
@@ -29,6 +30,15 @@ Predicts whether a planet could be habitable, using **Random Forest** and **Logi
 | [cifar10-image-classifier](https://github.com/Muneebk7/cifar10-image-classifier) | Image classifier trained on the CIFAR-10 dataset | Python, Deep Learning |
 | [document-similarity-checker](https://github.com/Muneebk7/document-similarity-checker) | Compares documents and scores their similarity | Python |
 | [oop-calculator](https://github.com/Muneebk7/oop-calculator) | Calculator built to practice OOP concepts | Python |
+
+## ✍️ Writing & research
+
+I write on [Medium](https://medium.com/@kmuneeb) about AI research, machine learning and space.
+
+- [LLMs Encode Harmfulness and Refusal Separately](https://medium.com/@kmuneeb/llms-encode-harmfulness-and-refusal-separately-literature-review-39128c35d6b7) (literature review)
+- [What My Brain and Claude's "Silent Words" Have in Common](https://medium.com/@kmuneeb/what-my-brain-and-claudes-silent-words-have-in-common-1e2b6d00e5eb) (research paper review)
+- [Artemis: The Next Big Leap](https://medium.com/@kmuneeb/artemis-the-next-big-leap-af293dcabd9e)
+- [How a Neural Network Learns: A Step-by-Step Walkthrough of Gradient Descent](https://medium.com/@kmuneeb/how-a-neural-network-learns-a-step-by-step-walkthrough-of-gradient-descent-f90b8eb29b09)
 
 ## 🛠️ Tech I use
 
@@ -55,5 +65,6 @@ AI • space • jets • Pashtun culture and history
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneebk7/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kmuneeb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abn3296726@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kmun_eeb/)
