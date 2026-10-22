@@ -1,77 +1,57 @@
-![Banner]([https://www.figma.com/proto/TwFzO9Dc0W195m89Xpm5BP/README-Github-Banner--Community-?node-id=0-67&p=f&t=6pMxYTNooQrIWjdK-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/proto/TwFzO9Dc0W195m89Xpm5BP/README-Github-Banner--Community-?node-id=0-1&t=w2PYgmlWHOVHzAwp-1))
+<h1 align="center">Hi, I'm Muneeb Khan 👋</h1>
 
-<h1 align="center">Hi, I am Muneeb Khan.</h1>
-<h3 align="center"> Excited about coding and problem solving | AI Student.</h3>
----
-
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />  -->
-### 🌱 Currently Learning
-- Machine Learning, Deep Learning and ofcource the cherry on top DSA.
-
-### 👨‍💻 Projects
-- [All my projects on GitHub](https://github.com/Muneebk7)
-
----
-
-### 🏆 LeetCode
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-17%2B%20Solved-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kmuneeb7/)
-- Solved 17 LeetCode problems covering easy difficulty yet, but cant wait to dive into the medium and hard ones.  
-- Organized solutions for easy reference and learning.  
-- Focused on practicing problem-solving, algorithms, and data structures.
----
-
-### 💬 Ask Me About
-AI, Space, Jets, and Pashtoon culture and history.
-
-### 📫 Reach Me At
-- **kmoneeb499@gmail.com**
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muneebk7)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DCRAW7TZ4/?mibextid=wwXIfr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kmun_eeb)
-
----
-
-<h2 style="margin-bottom: 15px;">Languages and Tools</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=machinelearning,AI,deeeplearning,computervision,github,vscode,html,css,python,java" alt="My Skills" />
-</p>
-
-
-
-  
----
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muneebk7&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-</p>
-
-## 📌 Most Used Languages  
-![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Muneebk7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-
-
-
-
-
-
----
-
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Muneebk7&theme=tokyonight&hide_border=true)](https://github.com/HumayunSaghir)
-
-
-
-
-
-
-
-
-## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneebk7&theme=tokyo-night&hide_border=true" />
+  AI undergrad at <b>COMSATS University Islamabad</b> • Curious about machine learning, agentic AI and problem solving
 </p>
+
+---
+
+## 🔭 What I'm up to
+
+- 📚 Studying **Artificial Intelligence** (BS) at COMSATS Islamabad
+- 🧠 Currently learning **machine learning, deep learning, and data structures & algorithms**
+- 🧩 Practicing on **LeetCode** (easy problems done, moving on to medium)
+- 🤖 Exploring **agentic AI**: RAG pipelines, **LangChain** and **LangGraph**
+- 🐳 Just getting started with **Docker and Jenkins** (beginner)
+
+## 🚀 Projects
+
+### 🪐 Featured: Planet Habitability Prediction
+Predicts whether a planet could be habitable, using **Random Forest** and **Logistic Regression** and comparing the two. Built in Google Colab.
+
+[View project →](https://github.com/Muneebk7/ml-randomforest) • `Python` `Jupyter` `scikit-learn`
+
+### Other projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| [linear-regression-api](https://github.com/Muneebk7/linear-regression-api) | Linear Regression REST API, my first try at Docker and Jenkins | Python, Docker (beginner) |
+| [cifar10-image-classifier](https://github.com/Muneebk7/cifar10-image-classifier) | Image classifier trained on the CIFAR-10 dataset | Python, Deep Learning |
+| [document-similarity-checker](https://github.com/Muneebk7/document-similarity-checker) | Compares documents and scores their similarity | Python |
+| [oop-calculator](https://github.com/Muneebk7/oop-calculator) | Calculator built to practice OOP concepts | Python |
+
+## 🛠️ Tech I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muneebk7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebk7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌱 Beyond code
+
+AI • space • jets • Pashtun culture and history
+
+## 📫 Let's connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abn3296726@gmail.com)
