@@ -122,4 +122,12 @@ AI • space • jets • Pashtun culture and history
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/muneebk7/) | [Medium](https://medium.com/@kmuneeb) | [Instagram](https://www.instagram.com/kmun_eeb/) | [Email](mailto:abn3296726@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/muneebk7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn" align="center">&nbsp;LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@kmuneeb"><img src="https://cdn.simpleicons.org/medium" height="20" alt="Medium" align="center">&nbsp;Medium</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kmun_eeb/"><img src="https://cdn.simpleicons.org/instagram" height="20" alt="Instagram" align="center">&nbsp;Instagram</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:abn3296726@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="20" alt="Email" align="center">&nbsp;Email</a>
+</p>
