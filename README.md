@@ -12,10 +12,15 @@
 - Learning **machine learning, deep learning, and data structures & algorithms**
 - Practicing on **LeetCode** (easy problems done, moving on to medium)
 - Learning the basics of **AI research** by reading papers and writing about them
-- Exploring **agentic AI**: RAG pipelines, **LangChain** and **LangGraph**
+- Exploring **agentic AI**: built a RAG chatbot with **LangChain** and **LangGraph**
 - Just getting started with **Docker and Jenkins** (beginner)
 
 ## Projects
+
+### Featured: LangGraph RAG Chatbot
+A multi-threaded chatbot where you can upload a PDF to a conversation and ask questions about it. Uses a LangGraph agent loop with tools (web search, stock price, calculator), FAISS retrieval, SQLite chat history and a Streamlit UI. The repo also documents how I built it step by step.
+
+[View project →](https://github.com/Muneebk7/langgraph-rag-chatbot) • `Python` `LangGraph` `LangChain` `FAISS` `Streamlit`
 
 ### Featured: Planet Habitability Prediction
 Predicts whether a planet could be habitable, using **Random Forest** and **Logistic Regression** and comparing the two. Built in Google Colab.
@@ -43,7 +48,7 @@ I write on [Medium](https://medium.com/@kmuneeb) about AI research, machine lear
 ## Tech Stack
 
 - **Languages:** Python, Java, JavaScript
-- **AI / ML:** Machine learning, deep learning, RAG, LangChain, LangGraph
+- **AI / ML:** Machine learning, deep learning, RAG, LangChain, LangGraph, FAISS, Streamlit
 - **Tools:** Git, VS Code, Jupyter, Docker and Jenkins (beginner)
 
 ## GitHub Stats
