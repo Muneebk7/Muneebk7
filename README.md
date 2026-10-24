@@ -25,15 +25,15 @@ A multi-threaded chatbot where you can upload a PDF to a conversation and ask qu
 ### Featured: Planet Habitability Prediction
 Predicts whether a planet could be habitable, using **Random Forest** and **Logistic Regression** and comparing the two. Built in Google Colab.
 
-[View project →](https://github.com/Muneebk7/ml-randomforest) • `Python` `Jupyter` `scikit-learn`
+[View project →](https://github.com/Muneebk7/ml-randomforest) • `Python` `Jupyter` `scikit-learn` `pandas`
 
 ### Other projects
 
 | Project | What it is | Tech |
 |---|---|---|
-| [linear-regression-api](https://github.com/Muneebk7/linear-regression-api) | Linear Regression REST API, my first try at Docker and Jenkins | Python, Docker (beginner) |
-| [cifar10-image-classifier](https://github.com/Muneebk7/cifar10-image-classifier) | Image classifier trained on the CIFAR-10 dataset | Python, Deep Learning |
-| [document-similarity-checker](https://github.com/Muneebk7/document-similarity-checker) | Compares documents and scores their similarity | Python |
+| [linear-regression-api](https://github.com/Muneebk7/linear-regression-api) | Practice project for Docker and Jenkins (containerized setup with a Jenkins pipeline) | Docker, Jenkins (beginner) |
+| [cifar10-image-classifier](https://github.com/Muneebk7/cifar10-image-classifier) | Image classifier trained on the CIFAR-10 dataset | Python, TensorFlow, Keras |
+| [document-similarity-checker](https://github.com/Muneebk7/document-similarity-checker) | Compares documents using embeddings and cosine similarity | Python, LangChain, scikit-learn |
 | [oop-calculator](https://github.com/Muneebk7/oop-calculator) | Calculator built to practice OOP concepts | Python |
 
 ## Writing and Research
@@ -47,9 +47,67 @@ I write on [Medium](https://medium.com/@kmuneeb) about AI research, machine lear
 
 ## Tech Stack
 
-- **Languages:** Python, Java, JavaScript
-- **AI / ML:** Machine learning, deep learning, RAG, LangChain, LangGraph, FAISS, Streamlit
-- **Tools:** Git, VS Code, Jupyter, Docker and Jenkins (beginner)
+**Languages**
+
+<p>
+  <img src="https://cdn.simpleicons.org/python" height="20" alt="Python" align="center">&nbsp;Python
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk" height="20" alt="Java" align="center">&nbsp;Java
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" height="20" alt="JavaScript" align="center">&nbsp;JavaScript
+</p>
+
+**Machine learning and data**
+
+<p>
+  <img src="https://cdn.simpleicons.org/tensorflow" height="20" alt="TensorFlow" align="center">&nbsp;TensorFlow
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras" height="20" alt="Keras" align="center">&nbsp;Keras
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="20" alt="scikit-learn" align="center">&nbsp;scikit-learn
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas" height="20" alt="pandas" align="center">&nbsp;pandas
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy" height="20" alt="NumPy" align="center">&nbsp;NumPy
+</p>
+
+**LLMs and agents**
+
+<p>
+  <img src="https://cdn.simpleicons.org/langchain" height="20" alt="LangChain" align="center">&nbsp;LangChain
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph" height="20" alt="LangGraph" align="center">&nbsp;LangGraph
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" height="20" alt="Hugging Face" align="center">&nbsp;Hugging Face
+</p>
+
+Also: OpenAI API, FAISS, RAG
+
+**Tools**
+
+<p>
+  <img src="https://cdn.simpleicons.org/git" height="20" alt="Git" align="center">&nbsp;Git
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" height="20" alt="GitHub" align="center">&nbsp;GitHub
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="VS Code" align="center">&nbsp;VS Code
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter" height="20" alt="Jupyter" align="center">&nbsp;Jupyter
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab" height="20" alt="Google Colab" align="center">&nbsp;Google Colab
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit" height="20" alt="Streamlit" align="center">&nbsp;Streamlit
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite" height="20" alt="SQLite" align="center">&nbsp;SQLite
+</p>
+
+**Learning (beginner)**
+
+<p>
+  <img src="https://cdn.simpleicons.org/docker" height="20" alt="Docker" align="center">&nbsp;Docker
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jenkins" height="20" alt="Jenkins" align="center">&nbsp;Jenkins
+</p>
 
 ## GitHub Stats
 
