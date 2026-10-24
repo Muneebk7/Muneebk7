@@ -123,11 +123,11 @@ AI • space • jets • Pashtun culture and history
 ## Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/muneebk7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn" align="center">&nbsp;LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muneebk7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" title="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@kmuneeb"><img src="https://cdn.simpleicons.org/medium" height="20" alt="Medium" align="center">&nbsp;Medium</a>
+  <a href="https://medium.com/@kmuneeb"><img src="https://cdn.simpleicons.org/medium" height="28" alt="Medium" title="Medium"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kmun_eeb/"><img src="https://cdn.simpleicons.org/instagram" height="20" alt="Instagram" align="center">&nbsp;Instagram</a>
+  <a href="https://www.instagram.com/kmun_eeb/"><img src="https://cdn.simpleicons.org/instagram" height="28" alt="Instagram" title="Instagram"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:abn3296726@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="20" alt="Email" align="center">&nbsp;Email</a>
+  <a href="mailto:abn3296726@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="28" alt="Email" title="Email"></a>
 </p>
